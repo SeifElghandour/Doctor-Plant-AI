@@ -1,1 +1,1 @@
-# Plant-Cure
+# PlantCare

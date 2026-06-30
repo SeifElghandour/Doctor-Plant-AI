@@ -1,5 +1,5 @@
 // ============================================
-// Plant Cure - JavaScript
+// PlantCare - JavaScript
 // ============================================
 
 // diseases array loaded from data/diseases.js

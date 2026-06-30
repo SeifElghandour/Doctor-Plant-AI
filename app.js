@@ -51,7 +51,7 @@ app.use('/api/users', require('./routes/authRoutes'));
 app.use('/api/scans', require('./routes/scanRoutes'));
 
 app.get('/', (_req, res) => {
-  res.send('Plant Cure - Backend API is running...');
+  res.send('PlantCare - Backend API is running...');
 });
 
 app.use((err, req, res, next) => {
