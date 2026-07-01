@@ -1,4 +1,4 @@
-# Plant-Cure - HTML/CSS/JS Version
+# Plant-Care - HTML/CSS/JS Version
 
 A clean, standalone version of Plant Scan AI built with pure HTML, CSS, and JavaScript. Easy to edit in Visual Studio Code and deploy anywhere.
 
