@@ -26,6 +26,8 @@ const allowedOrigins = [
   'http://localhost:8080',
   'http://127.0.0.1:8080',
   'https://plant-care-gold.vercel.app',
+  'https://plant-care-tan.vercel.app',
+  'https://plant-cure-tan.vercel.app',
   'null',
 ];
 
